@@ -1,23 +1,21 @@
-# 📊 **BikeStore Dashboard – Power BI Project**
+# 🚴‍♂️ **BikeStore Dashboard – Power BI Project**
 
 ## 🚀 Overview
-This project is a comprehensive Power BI dashboard developed to analyze and visualize sales performance, customer behavior, and product trends using the Superstore dataset. It offers interactive reports with key performance indicators (KPIs), time-based insights, and category breakdowns to support data-driven decisions.
-
+I built an interactive Sales Dashboard using PowerBI — transforming raw data into clear, actionable insights. The dashboard is split into two pages: ( Sales and Product Performance ), providing a detailed view of sales trends and product dynamics over a 3-year period
 
 ## 🗂️ Dataset
 * [Dataset](https://github.com/MohammedMustafa32/BikeStore-Project-PowerBI/tree/main/Dataset)
 
 
 ## 🔍 Key Insights
-* Total Sales: $2.3M across 4,922 orders
-* Top Customer: Emily Phan (most frequent)
-* Best-Selling Product: Canon imageCLASS 2200 – $61.6K
-* Top Category: Furniture – 36.6% of sales
-* Most Revenue Region: West – $710K
-* Popular Shipping Mode: Standard Class – $1.34M
-* Average Order Value: $459
-* Average Shipping Days: 4
-* Sales Growth: Peak in 2018 with a high of $278K in a single month
+* Total Revenue reached 7.69M across 1,445 customers and 1,615 orders.
+* Sharyn is the top customer by Revenue, generating over 39K in sales.
+* Genoveva and Jamaal had the most orders, both placing 16 orders.
+* Mount Vernon is the top city by Revenue.
+* Best-Selling Product: Trek Slash 8 – $ 0.56M
+* Best-Selling Brand: Electra – 1729 Orders 
+* 2017 was the standout model_year, contributing 41.63% of total revenue.
+* Top Product Category: Mountain Bikes – $2.77M
 
 
 ## 🛠 Tools & Technologies
